@@ -28,10 +28,10 @@ The study area includes four wilderness areas located in the Roosevelt National 
 6 - Douglas-fir
 7 - Krummholz
 
-# Aim of the project:
+### Aim of the project:
 ### The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features. The aim of this project is to predict the Cover_Type for every row in the test set (565892 observations) using Random Forest Classifier, Extra Trees Classifier and Support Vector Machine. Then, my goal is to evaluate which model works the best for the classification.
 
-# Data Dictionary
+### Data Dictionary
 •Elevation - Elevation in meters
 </br>
 •Aspect - Aspect in degrees azimuth
@@ -58,7 +58,7 @@ The study area includes four wilderness areas located in the Roosevelt National 
 </br>
 •Cover_Type (7 types, integers 1 to 7) - Forest Cover Type designation
 
-## The wilderness areas are:
+### The wilderness areas are:
 </br>
 1 - Rawah Wilderness Area
 </br>
