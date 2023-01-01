@@ -72,10 +72,10 @@ The study area includes four wilderness areas located in the Roosevelt National 
 ### Conclusion:
 ### •Type 2 (Lodgepole Pine) is the most common type of trees in Roosevelt National Forest
 
-### •Douglas-fir has a normal distribution in terms of aspects, while Cottonwood/Willow has a left-skewed distrubtion, where a significant number of outliers in aspects, ranging from 270-350. 
+### •Douglas-fir has a normal distribution in terms of aspects, while Cottonwood/Willow has a left-skewed distribution, where a significant number of outliers in aspects, ranging from 270-350. 
 
 ### •Krummholz tends to grow at a higher height, while Cottonwood/Willow tends to grow at lower height.
 
 ### •Ponderosa Pine tends to grow at steeper soil, while Spruce/Fir tends to grow at flatter soil.
 
-### •Overall speaking, Random Forest Classifier does the best job in classifying the tree types, while Support Vector Model works perfectly in disginuishing tree type 5, 6 and 7.
+### •Overall speaking, Random Forest Classifier does the best job in classifying the tree types, while Support Vector Model works perfectly in distinguishing tree type 5, 6 and 7.
