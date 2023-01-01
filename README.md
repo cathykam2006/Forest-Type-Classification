@@ -1,4 +1,4 @@
-# Forest-Cover-Type-Dataset
+# Roosevelt National Forest Tree Type Classification
 - Tree types found in the Roosevelt National Forest in Colorado
 
 ## About Dataset
